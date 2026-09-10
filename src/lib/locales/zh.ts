@@ -11,7 +11,7 @@ export const TEXT_CONTENT_ZH = {
       '  @#FFF700╚███╔███╔╝██║  ██║   ██║   ██████╔╝╚██████╔╝╚██████╔╝',
       '  @#FFF700 ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚═════╝  ╚═════╝  ╚═════╝',
       ' ',
-      "  @#bababaWhydog's Playground — Personal Terminal v1.0",
+      "  @#bababaWhydog's Personal Web — Terminal v1.0",
       '  @#bababa─────────────────────────────────────────────',
       ' ',
       '  @#FF77B7Quick Start:@#',
@@ -433,7 +433,7 @@ export const TEXT_CONTENT_ZH = {
     error: '頁面不存在: @#fff700{0}@#',
   },
   '/': {
-    title: "Whydog's Playground",
+    title: "Whydog's Personal Web",
     subtitle: '我是 Whydog, 一個 18 歲的開發者, 熱愛全端開發和 UI/UX 設計。',
   },
   '/listentogether': {

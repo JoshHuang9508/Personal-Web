@@ -11,7 +11,7 @@ export const TEXT_CONTENT_EN = {
       '  @#FFF700╚███╔███╔╝██║  ██║   ██║   ██████╔╝╚██████╔╝╚██████╔╝',
       '  @#FFF700 ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚═════╝  ╚═════╝  ╚═════╝',
       ' ',
-      "  @#bababaWhydog's Playground — Personal Terminal v1.0",
+      "  @#bababaWhydog's Personal Web — Terminal v1.0",
       '  @#bababa─────────────────────────────────────────────',
       ' ',
       '  @#FF77B7Quick Start:@#',
@@ -433,7 +433,7 @@ export const TEXT_CONTENT_EN = {
     error: 'Page not found: @#fff700{0}@#',
   },
   '/': {
-    title: "Whydog's Playground",
+    title: "Whydog's Personal Web",
     subtitle: "I'm Whydog, a 18yo developer passionate about full-stack development, UI/UX design.",
   },
   '/listentogether': {
